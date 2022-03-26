@@ -19,4 +19,4 @@
     <li>Adding more details to the eyes.</li>
     </ul>
 <h2>License</h2>
-    This project is licensed under the <a href="https://github.com/mp-gutierrez/pacmen-exercise/blob/main/LICENSE"> MIT License</a>.
+    This project is licensed under the <a href="https://github.com/mp-gutierrez/eyes-exercise/blob/main/LICENSE"> MIT License</a>.
